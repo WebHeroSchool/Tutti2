@@ -1,1 +1,2 @@
-stutus qwo
+status qwo 
+open
