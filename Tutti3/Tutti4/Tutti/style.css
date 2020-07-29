@@ -1,0 +1,38 @@
+.header {
+    text-align: center;
+    color: red;
+}
+.header__button {
+    background-color: aqua;
+    border: 2px solid #000;
+}
+.section__text {
+    font-size: 16px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
+    font-stretch: expanded;
+}
+.eng {
+    color: maroon;
+}
+
+.section__text_add {
+    font-family: "Monotype corsiva";
+    font-size: 18px;
+}
+.center {
+    text-align: center;
+}
+.section__pic {
+    width: 350px;
+    height: 250px;
+}
+.section__footer li {
+    padding: 5px 5px;
+    background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+    border-bottom: 1px solid grey;
+    color: #506a6b;
+    font-size: 20px;
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
